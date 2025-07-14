@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^5.8.2",
+    "word-list": "^4.1.0"
+  }
+}
